@@ -1,15 +1,5 @@
 # GBAZ80
 its supposed to be a game boy advance Z80
-Today, 2:00 AM
-You
- 
-
-
-
-
-
-
-
 
 Z80 = {
   _r: {
